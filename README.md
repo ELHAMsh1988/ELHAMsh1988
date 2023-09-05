@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ELHAMsh1988
 - 👀 I’m interested in learning python
 - 🌱 I’m currently learning Maching Learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shahriyari.1988@gmail.com
 
 <!---
