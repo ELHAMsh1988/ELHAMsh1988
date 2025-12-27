@@ -16,12 +16,22 @@ und firmware-naher Softwareentwicklung.
 - Git, VS Code, Proteus
 
 ## 🚀 Projects
-- *Intelligente Ampelsteuerung (AVR, Embedded C, FSM)*
-- *Simulation von Steuerungsalgorithmen (MATLAB/Simulink)*
-- * [Intelligente Ampelsteuerung (AVR, Embedded C, FSM)](https://github.com/ELHAMsh1988/AVR-Traffic-Light-FSM)
-- * [Car Speed Monitor (AVR, Embedded C)](https://github.com/ELHAMsh1988/Car-Speed-Monitor)
 
-## 📫 Contact
+- *Intelligente Ampelsteuerung (AVR, Embedded C, FSM)*  
+  Intelligente Ampelsteuerung mit Finite-State-Machine für AVR-Mikrocontroller.  
+  [GitHub-Link](https://github.com/ELHAMsh1988/AVR-Traffic-Light-FSM)
+
+- *Car Speed Monitor (AVR, Embedded C)*  
+  Embedded C Projekt zur Messung der Fahrzeuggeschwindigkeit mit Hall-Sensor und Timer/Interrupts.  
+  [GitHub-Link](https://github.com/ELHAMsh1988/Car-Speed-Monitor)
+
+- *Smart Temp Monitor (STM32/C++)*  
+  Projekt zur Temperaturüberwachung mit STM32 und C++.  
+  [GitHub-Link](https://github.com/ELHAMsh1988/smart-temp-monitor)
+
+- *Simulation von Steuerungsalgorithmen (MATLAB/Simulink)*  
+  Modellbasierte Simulation von Steuerungsalgorithmen für Embedded Systeme.## 📫 Contact
+  
 - 📧 Email: elham.shahriari@email.com
 - 🔗 GitHub: https://github.com/ELHAMsh1988
 - 🔗 LinkedIn: https://www.linkedin.com/in/elham-shahriari-96b9477b/
