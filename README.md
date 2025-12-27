@@ -19,6 +19,7 @@ und firmware-naher Softwareentwicklung.
 - *Intelligente Ampelsteuerung (AVR, Embedded C, FSM)*
 - *Simulation von Steuerungsalgorithmen (MATLAB/Simulink)*
 - * [Intelligente Ampelsteuerung (AVR, Embedded C, FSM)](https://github.com/ELHAMsh1988/AVR-Traffic-Light-FSM)
+- * [Car Speed Monitor (AVR, Embedded C)](https://github.com/ELHAMsh1988/Car-Speed-Monitor)
 
 ## 📫 Contact
 - 📧 Email: elham.shahriari@email.com
